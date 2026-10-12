@@ -1,0 +1,6 @@
+node_modules/
+dist/
+.env
+data/attendance.json
+data/attendance.*.tmp
+npm-debug.log*
